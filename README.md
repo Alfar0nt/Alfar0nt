@@ -32,9 +32,13 @@ I'm an undergraduate student in Information Systems (3rd Semester) with a strong
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfar0nt&show_icons=true&theme=radical)
+![Dhiar's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Alfar0nt&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfar0nt&layout=compact&theme=radical)
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Alfar0nt/dhiar-store.github.io/853d1aeae99e21f11ff29447903bed4348184a0f/snake-dhiar.svg)
 
 ---
 
